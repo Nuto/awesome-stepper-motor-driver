@@ -17,7 +17,10 @@ An awesome list of stepper motor driver
 
 ## Stepper Motor
 
-
 | Model | Voltage | Rated Current / Phase | Phase Resistance | Motor Type
 | ------------- | ------------- | ------------- | ------------- | -------------
 | 17HS13-0404S | 12V | 0.4A | 30 Ω | Bipolar
+
+## Some Links
+
+https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/

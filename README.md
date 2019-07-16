@@ -1,9 +1,9 @@
 # Awesome stepper motor driver
 An awesome list of stepper motor driver
 
+## Motor driver
 
-
-| Type  | Step/Dir | SPI | UART | Motor Supply | Phase Current, RMS | Microsteps
+| Type | Step/Dir | SPI | UART | Motor Supply | Phase Current, RMS | Microsteps
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 | Trinamic TMC2100-LA | :white_check_mark: | :x: | :x: | 5 - 46V | 1.2A | 1...256
 | Trinamic TMC2130-LA | :white_check_mark: | :white_check_mark: | :x: | 5 - 46V | 1.2A | 1...256
@@ -14,3 +14,10 @@ An awesome list of stepper motor driver
 | A4988 | :white_check_mark: | :x: | :x: | 8 - 35V | 2A | 1...16
 | DRV8825 | :white_check_mark: | :x: | :x: | 8.2 - 45V | 2.2A | 1...32
 | DRV8880 | :white_check_mark: | :x: | :x: | 6.5 - 45V | 2A | 1...16
+
+## Stepper Motor
+
+
+| Model | Voltage | Rated Current / Phase | Phase Resistance | Motor Type
+| ------------- | ------------- | ------------- | ------------- | -------------
+| 17HS13-0404S | 12V | 0.4A | 30 Ω | Bipolar

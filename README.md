@@ -25,6 +25,21 @@ An awesome list of stepper motor driver
 ### Phase Resistance
 Due more resistance, the motor will heat more. A higher resistance is therefore worse.
 
+### Frame Size
+
+| Frame Size | Size
+| ------------- | -------------
+| NEMA 6 | 14 x 14mm
+| NEMA 8 | 20 x 20mm
+| NEMA 11 | 28 x 28mm
+| NEMA 14 | 35 x 35mm
+| NEMA 16 | 39 x 39mm
+| NEMA 17 | 42 x 42mm
+| NEMA 23 | 57 x 57mm
+| NEMA 24 | 60 x 60mm
+| NEMA 34 | 86 x 86mm
+| NEMA 42 | 110 x 110mm
+
 ## Some Links
 
 https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/

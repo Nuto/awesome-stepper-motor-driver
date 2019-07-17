@@ -22,6 +22,9 @@ An awesome list of stepper motor driver
 | 17HS13-0404S | 12V | 0.4A | 30 Ω | Bipolar | NEMA 17
 | US-17HS4401S | 12V | 1.7A | 1.5 Ω | Bipolar | NEMA 17
 
+### Phase Resistance
+Due more resistance, the motor will heat more. A higher resistance is therefore worse.
+
 ## Some Links
 
 https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/

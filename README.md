@@ -40,6 +40,14 @@ Due more resistance, the motor will heat more. A higher resistance is therefore 
 | NEMA 34 | 86 x 86mm
 | NEMA 42 | 110 x 110mm
 
+### Cable Connector
+
+| Type | Connection
+| ------------- | -------------
+| HX2.54 6pin | Motor
+| DuPont 4pin | Motor driver (default)
+| HX2.54 4pin | Motor driver
+
 ## Some Links
 
 https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/

@@ -19,7 +19,7 @@ An awesome list of stepper motor driver
 
 | Model | Voltage | Rated Current / Phase | Phase Resistance | Motor Type | Frame Size | Datasheet
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-| 17HS13-0404S | 12V | 0.4A | 30 Ω | Bipolar | NEMA 17 | https://www.oyostepper.com/images/upload/File/17HS13-0404S.pdf
+| 17HS13-0404S | 12V | 0.4A | 30 Ω | Bipolar | NEMA 17 | [Datasheet](https://www.oyostepper.com/images/upload/File/17HS13-0404S.pdf)
 | US-17HS4401S | 12V | 1.7A | 1.5 Ω | Bipolar | NEMA 17 | -
 
 ### Phase Resistance

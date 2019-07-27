@@ -17,10 +17,12 @@ An awesome list of stepper motor driver
 
 ## Stepper Motor
 
-| Model | Voltage | Rated Current / Phase | Phase Resistance | Motor Type | Frame Size | Datasheet
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-| 17HS13-0404S | 12V | 0.4A | 30 Ω | Bipolar | NEMA 17 | [Datasheet](https://www.oyostepper.com/images/upload/File/17HS13-0404S.pdf)
-| US-17HS4401S | 12V | 1.7A | 1.5 Ω | Bipolar | NEMA 17 | -
+| Model | Voltage | Rated Current / Phase | Phase Resistance | Inductance | Max. Speed (revolutions/sec) | Motor Type | Frame Size | Datasheet
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+| 17HS13-0404S | 12V | 0.4A | 30 Ω | 37 | 2.03 | Bipolar | NEMA 17 | [Datasheet](https://www.oyostepper.com/images/upload/File/17HS13-0404S.pdf)
+| 17HS4401S | 12V | 1.7A | 1.5 Ω | 2.8 | 6.3 | Bipolar | NEMA 17 | -
+
+
 
 ### Phase Resistance
 Due more resistance, the motor will heat more. A higher resistance is therefore worse.
@@ -50,5 +52,5 @@ Due more resistance, the motor will heat more. A higher resistance is therefore 
 
 ## Some Links
 
-https://www.allaboutcircuits.com/tools/stepper-motor-calculator/
-https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/
+- https://www.allaboutcircuits.com/tools/stepper-motor-calculator/
+- https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/
